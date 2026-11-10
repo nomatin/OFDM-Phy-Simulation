@@ -4,7 +4,14 @@ Simulation of an OFDM transmitter and receiver using Python and Jupyter Notebook
 
 The project demonstrates OFDM signal generation, transmission through different channel conditions, receiver synchronization, and demodulation.
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomatin/OFDM-Phy-Simulation/main?urlpath=lab%2Ftree%2Fofdm.ipynb)
+## View the Notebook
+
+[![View on GitHub](https://img.shields.io/badge/View-GitHub-24292F?logo=github)](https://github.com/nomatin/OFDM-Phy-Simulation/blob/main/ofdm.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/View-nbviewer-F37626?logo=jupyter&logoColor=white)](https://nbviewer.org/github/nomatin/OFDM-Phy-Simulation/blob/main/ofdm.ipynb)
+
+## Run or Restart the Notebook
+
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomatin/OFDM-Phy-Simulation/90d7493a43e42e7a938c4861643cfee602563726?urlpath=lab%2Ftree%2Fofdm.ipynb)
 
 ## Features
 
