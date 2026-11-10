@@ -1,0 +1,5 @@
+# Local Jupyter state
+/.ipynb_checkpoints/
+/.jupyter/
+/.ofdm-jupyter/
+/.jupyter_ystore.db*
